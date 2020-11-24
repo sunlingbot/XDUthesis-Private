@@ -26,7 +26,6 @@ XDUthesis-private
 ├─ code                                     # 代码文件
 │    └─ demo.c                              # 一个C语言样例代码
 ├─ books.bib                                # 参考文献的 bib 文件
-├─ main.bbl                                 # 编译生成的 bbl 文件，不用管
 ├─ main.pdf                                 # 结果 pdf 文件
 ├─ main.tex                                 # 要编译的主文件
 └─ xdureport.cls                            # 要导入的文档类
