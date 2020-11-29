@@ -22,7 +22,7 @@ XDUthesis-private
 │    ├─ article.tex                         # 实验报告正文部分                  
 ├─ figure                                   # 示例图片
 │    ├─ xdubanner.jpg                       # 西电头图
-│    └─ xdulogo.jpg                         # 西电校徽 logo
+│    └─ xdulogo.jpg                         # 西电校徽logo
 ├─ code                                     # 代码文件
 │    └─ demo.c                              # 一个C语言样例代码
 ├─ books.bib                                # 参考文献的 bib 文件
