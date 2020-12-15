@@ -1,4 +1,4 @@
-# XDUthesis-private
+# XDUthesis-Private
 
 这里是西安电子科技大学实验报告 `LaTeX` 模板，由于电院的老师没有对实验报告的模板格式做任何要求，于是就对 `XDUthesis` 模板做了些许修改。**如果老师有明确要求，请勿使用此模板。**
 
